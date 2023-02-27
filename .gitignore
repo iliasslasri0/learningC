@@ -1,0 +1,9 @@
+*.exe
+*.o
+/.vscode
+fork
+fork-synch
+helloworld
+*.out
+fork-exercice
+fork-exec
